@@ -4,6 +4,7 @@
 int main()
 {
     printf("Hello world!\n");
-    printf("Añado otro printf");
+
+    int suma = 2+ 3;
     return 0;
 }
